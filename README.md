@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ## Recent articles on Medium
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@micael.paquier/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@micael.paquier/0" alt="Recent Article 3"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@micael.paquier/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@micael.paquier/3" alt="Recent Article 3"> 
