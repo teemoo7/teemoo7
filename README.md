@@ -12,4 +12,5 @@ You can find me on [Medium](https://medium.com/@micael.paquier), [Twitter](https
 
 ## Stats
 
-![teemoo7's github stats](https://github-readme-stats.vercel.app/api?username=teemoo7)
+![Github stats](https://github-readme-stats.vercel.app/api?username=teemoo7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teemoo7&layout=compact)
